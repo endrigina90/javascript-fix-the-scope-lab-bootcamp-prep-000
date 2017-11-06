@@ -32,7 +32,7 @@ describe('Fix the Scope', function() {
 
   describe('theFunk', function() {
     it('is "O Pall!"', function() {
-      expect(window.theFunk).toEqual('FUNKY!')
+      expect(window.theFunk).toEqual('O Pall!')
     })
   })
 
